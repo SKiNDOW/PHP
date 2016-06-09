@@ -1,0 +1,14 @@
+html {
+backglound-color: #fff;
+}
+
+body {
+background-color : white;
+margin: auto; 
+width: 600px;
+}
+
+.block {
+color: white;
+padding : 10px;
+background : #3C3C92;}

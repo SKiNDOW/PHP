@@ -4,7 +4,7 @@
 </head> 
 <body>
 <?php
-    echo "<div class='block'>TEXT</div>";
+    echo "<div class='block'>T2E2X2T</div>";
 ?>
 </body>
 </html>

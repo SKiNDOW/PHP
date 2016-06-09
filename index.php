@@ -4,7 +4,8 @@
 </head> 
 <body>
 <?php
-    echo "<div class='block'>T2E2X2T</div>";
+
+    echo "<div class='block'>SKiNDOW Develop</div>";
 ?>
 </body>
 </html>
